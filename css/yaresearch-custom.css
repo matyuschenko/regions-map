@@ -1,0 +1,50 @@
+/* SPECIAL CUSTOM STYLES OF CURRENT PROJECT */
+.country, .district {
+    pointer-events: none;
+}
+
+path {
+    stroke-width: 0px;
+    fill: none;
+}
+
+.region {
+    fill: #dde4e4;
+    stroke: white;
+    stroke-width: 1px;
+}
+
+.city {
+    cursor: pointer;
+}
+
+.city circle {
+    fill: #6a51a3;
+}
+
+.city__name {
+    font-size: 10px;
+}
+
+#tooltip, #infopane, #legend {
+    position: absolute;
+    font-size: 12px;
+    padding: 4px;
+    background: rgba(255, 255, 255, .9);
+    border: solid 1px rgba(203, 203, 203, .5);
+}
+
+#tooltip {
+    pointer-events: none;
+}
+
+#infopane {
+    top: 69px;
+    width: 175px;
+}
+
+#legend {
+    font-size: 10px;
+    left: 15px;
+    top: 475px;
+}

@@ -1,0 +1,16 @@
+/* КНОПКИ */
+.button {
+    display: inline-block;
+    cursor: pointer;
+    font: 1.3rem/2.8rem arial, sans-serif;
+    padding: 0 13px;
+    border-radius: 3px;
+    border: rgba(0, 0, 0, 0.15) solid 1px;
+    margin-right: 6px;
+}
+
+.button_pressed {
+    background-color: #ffdb4d;
+    border: #ffdb4d solid 1px;
+    cursor: default;
+}

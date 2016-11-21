@@ -1,0 +1,16 @@
+city	lat	lon	size	color_group	tooltip	infopane
+Москва	55.7522200	37.6155600	12108	europe	tooltip	infopane
+Санкт-Петербург	59.8944400	30.2641700	5132	europe	tooltip	infopane
+Новосибирск	55.0411100	82.9344400	1548	siberia	tooltip	infopane
+Екатеринбург	56.8575000	60.6125000	1446	siberia	tooltip	infopane
+Нижний Новгород	56.3286700	44.0020500	1273	europe	tooltip	infopane
+Самара	53.2000000	50.1500000	1172	europe	tooltip	infopane
+Казань	55.7877000	49.1248000	1191	europe	tooltip	infopane
+Омск	55.0000000	73.4000000	1166	siberia	tooltip	infopane
+Челябинск	55.1544400	61.4297200	1169	siberia	tooltip	infopane
+Ростов-на-Дону	47.2363900	39.7138900	1110	europe	tooltip	infopane
+Уфа	54.7750000	56.0375000	1107	europe	tooltip	infopane
+Волгоград	48.8047200	44.5858300	1018	europe	tooltip	infopane
+Пермь	58.0000000	56.2500000	1042	europe	tooltip	infopane
+Красноярск	56.0097200	92.7916700	1067	siberia	tooltip	infopane
+Воронеж	51.6699000	39.1922700	1014	europe	tooltip	infopane

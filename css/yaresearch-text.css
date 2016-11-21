@@ -1,0 +1,22 @@
+/* ТЕКСТ */
+.minor-text {
+    font-size: 1rem;
+    line-height: 1.3rem;
+}
+
+.axis-text {
+    font-size: .9rem;
+    line-height: 1.3rem;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    color: #555150;
+}
+
+.caption {
+    font-size: .9rem;
+    line-height: 1.3rem;
+    text-transform: uppercase;
+    color: #555150;
+    margin-top: 20px;
+    letter-spacing: .06em;
+}

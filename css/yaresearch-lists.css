@@ -1,0 +1,9 @@
+/* СПИСКИ */
+ol, ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.list-number {
+    font-size: 1rem;
+}
