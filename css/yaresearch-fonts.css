@@ -1,0 +1,58 @@
+/* source: */
+/* https://lego.yandex-team.ru/libs/islands/v5.2.2/desktop/i-font/examples/ */
+
+
+/* light */
+@font-face {
+    font-family: "Yandex Sans Text Web";
+    src: url(https://yastatic.net/islands/_/T2mgRgBGVoQsh2iSjPFjLyo0feo.eot);
+    src: url(https://yastatic.net/islands/_/GituScM_-4N6G_NbkNFGl3QuY1k.woff2),
+         url(https://yastatic.net/islands/_/pTlXL9UR9mDEGvGf8tMPbjLky1A.woff);
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+/* regular */
+@font-face {
+    font-family: "Yandex Sans Text Web";
+    src: url(https://yastatic.net/islands/_/zrCaXywpNCpSQgz7fQraUDzXumM.eot);
+    src: url(https://yastatic.net/islands/_/GEumJGdz6PuI2jZ6GhSq0paPvho.woff2),
+         url(https://yastatic.net/islands/_/6ht3TWbVtHpfxwRbEdAXAbwRBBk.woff);
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+/* regular italic */
+@font-face {
+    font-family: "Yandex Sans Text Web";
+    src: url(https://yastatic.net/islands/_/t7FO7ByELVk4JFYUEUXZ6j9YNDY.eot);
+    src: url(https://yastatic.net/islands/_/jyjCN4zgI57UwoJpEmCnznrQydw.woff2),
+         url(https://yastatic.net/islands/_/Kvkm8LWYsAo1I5VXauiNHGR8_RI.woff);
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+/* medium */
+@font-face {
+    font-family: "Yandex Sans Text Web";
+    src: url(https://yastatic.net/islands/_/wU8xHWzxhuiI5DnaUDs4ZUi8nME.eot);
+    src: url(https://yastatic.net/islands/_/yboQWNa1IJ-YFCgYbNWuynXTQcY.woff2),
+         url(https://yastatic.net/islands/_/g0MeJlAWVRZjlLOLzhOGwwDQzKY.woff);
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+/* bold */
+@font-face {
+    font-family: "Yandex Sans Text Web";
+    src: url(https://yastatic.net/islands/_/mI5D1noNXyJWVh2Mo5ddJr0GzOQ.eot);
+    src: url(https://yastatic.net/islands/_/cXX7mP_o-5hg5efoMGpgrVrpE1Y.woff2),
+         url(https://yastatic.net/islands/_/ywdtNA7T1EHnsMdKR4LaCjRP920.woff);
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+}

@@ -135,7 +135,7 @@ var infopane = d3.select("body").append("div")
 
         // добавляем зум
         var zoom = d3.zoom()
-            .scaleExtent([1, 3])
+            .scaleExtent([1, 10])
             .on("zoom", zoomed);
 
         function zoomed() {
@@ -146,6 +146,7 @@ var infopane = d3.select("body").append("div")
             svg.selectAll("g.city").selectAll('.city__name')
                 .attr("x", function(d) { return citySize(d.rad)/transform.k + 2;})
                 .style('font-size', function() { return 10/transform.k+'px'; });
+            d3.select('.current-zoom').text(transform.k);
         }
 
         d3.select('svg')
